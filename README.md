@@ -111,7 +111,7 @@ The demo page will then be served on http://localhost:8000/ in watch mode, meani
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://avatars3.githubusercontent.com/u/22945927?s=150&v=4" width="120">
+        <img src="https://avatars.githubusercontent.com/u/67269368?v=4" width="120">
         <br />
         <a href="https://github.com/pinpointdev90">PinPointDev<a/>
       </td>
